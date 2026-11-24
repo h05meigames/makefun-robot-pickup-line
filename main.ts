@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // One pickup line in the voice of a robot trying to charm someone: a
 // firmware update that reboots the heart.
 const entry =
-  "Are you a firmware update? Because every time you're near, my heart reboots and suddenly I run smoother.";
+  "Are you a firmware update? Because whenever you're near, my heart reboots, my cooling fans spin up, and I run smoother than ever.";
 
 // The bounty allows one line of 1–200 characters. Count Unicode code
 // points so multi-byte characters count once, and fail loudly instead of
